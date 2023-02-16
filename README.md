@@ -1,12 +1,10 @@
 <div height="100" width=>  
-   <img src="https://github.com/Otavie/github_images/blob/main/github_profile.jpg" height="39.77%" width="50%" />
-   
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile.jpg" height="20%" width="100%" />
 </div>
 
 
 
-<h1 align="center">Otavie Okuoyo</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <h3 align="center">Connect with me:</h3>
