@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 style="color:red">Otavie</h1>
+<h1 style="color:red;">Otavie</h1>
 
 
 <!--
