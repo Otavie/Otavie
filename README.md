@@ -2,11 +2,10 @@
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
 </div>
 
-### Hi there 👋, I am Otavie!
+### Hi there 👋, I am Otavie! <h4 align="right">A passionate frontend developer from Nigeria</h4>
 
 <h1 align="center"></h1>
 <h4 align="center">A passionate frontend developer from Nigeria</h4>
-<h4 align="right">A passionate frontend developer from Nigeria</h4>
 
 <p align="justify">
    A front-end web developer that can integrate the interactive and visual aspects of excellently and tastefully created UI/UX designs into working applications. Otavie can collaborate with teams of backend developers and UI/UX designers to guarantee that users have the utmost experience when using a website or web application.
