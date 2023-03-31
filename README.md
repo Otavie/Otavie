@@ -2,7 +2,7 @@
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
 </div>
 
-### Hi there 👋, I am Otavie! <h4 align="right">A passionate frontend developer from Nigeria</h4>
+### Hi there 👋, I am Otavie! <p align="right">A passionate frontend developer from Nigeria</p>
 
 <h1 align="center"></h1>
 <h4 align="center">A passionate frontend developer from Nigeria</h4>
