@@ -24,6 +24,8 @@
    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&line_height=28&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
