@@ -46,9 +46,9 @@
 </p>
 <br />
 
-***
+****
 
-<p align="center" style="text-decoration:none; color:red;">
+<p align="center" style="text-decoration:none; color:#FF0000;">
   <a href="mailto:otavieokuoyo@gmail.com">otavieokuoyo@gmail.com</a>
 </p>
 
