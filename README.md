@@ -49,6 +49,7 @@
 ---
 
 <p align="center">[otavieokuoyo@gmail.com](mailto:otavieokuoyo@gmail.com)</p>
+[Email me](mailto:otavieokuoyo@gmail.com)
 
 
 <!-- <h4 align="left">Connect with me:</h4> -->
