@@ -1,3 +1,13 @@
+<head>
+  <style>
+    p.center {
+      text-align: center;
+      color: #FF0000;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
 <div height="100" width=>  
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
 </div>
@@ -46,9 +56,9 @@
 </p>
 <br />
 
-****
+------
 
-<p align="center" style="text-decoration:none; color:#FF0000;">
+<p class="center">
   <a href="mailto:otavieokuoyo@gmail.com">otavieokuoyo@gmail.com</a>
 </p>
 
