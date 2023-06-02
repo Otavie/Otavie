@@ -1,13 +1,3 @@
-<head>
-  <style>
-    p.center {
-      text-align: center;
-      color: #FF0000;
-      text-decoration: none;
-    }
-  </style>
-</head>
-
 <div height="100" width=>  
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
 </div>
@@ -58,10 +48,9 @@
 
 ------
 
-<p class="center">
-  <a href="mailto:otavieokuoyo@gmail.com">otavieokuoyo@gmail.com</a>
+<p align="center">
+<a href="mailto:otavieokuoyo@gmail.com" style="color:#FF0000;">otavieokuoyo@gmail.com</a>  
 </p>
-
 
 <!-- <h4 align="left">Connect with me:</h4> -->
 <!-- <a href="https://twitter.com/loveotavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveotavie" height="25" width="30" style="margin-right:100px;"/></a>
