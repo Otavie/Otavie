@@ -49,11 +49,9 @@
 ---
 
 <!-- [otavieokuoyo@gmail.com](mailto:otavieokuoyo@gmail.com) -->
-<div style="text-align:center;">
-  [otavieokuoyo@gmail.com](mailto:otavieokuoyo@gmail.com)
-</div>
-
-
+<p align="center">
+  <a href="mailto:otavieokuoyo@gmail.com">Email me</a>
+</p>
 
 
 <!-- <h4 align="left">Connect with me:</h4> -->
