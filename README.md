@@ -48,7 +48,7 @@
 
 ---
 
-<p align="center">[Email me](mailto:otavieokuoyo@gmail.com)</p>
+[Email me](mailto:otavieokuoyo@gmail.com)
 <!-- [Email me](mailto:otavieokuoyo@gmail.com) -->
 
 
