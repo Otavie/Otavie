@@ -4,7 +4,7 @@
 
 ## Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
 
-<h1 align="center"></h1>
+<!-- <h1 align="center"></h1> -->
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 <!-- Brief Intro -->
@@ -20,8 +20,9 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <!--    <a href="https://github.com/Otavie/Simple-View-Counter">
    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Otavie-profile-views"/></a> -->
+   ![](https://komarev.com/ghpvc/?username=Otavie&style=for-the-badge)
 
-   <a href="https://github.com/Otavie/Simple-View-Counter">
+   <a href="https://github.com/Otavie">
    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Otavie-profile-views"/></a>
 
    <a href="https://github.com/Otavie">
