@@ -26,9 +26,8 @@
 
 ---
 
-<p align="center">
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&theme=transparent)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&theme=transparent)
+
 
 <br />
 
