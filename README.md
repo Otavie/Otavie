@@ -50,7 +50,7 @@
 
 <p align="center">
    <a href="mailto:otavieokuoyo@gmail.com" style="color:#FF0000;">otavieokuoyo@gmail.com</a>  
-   <a href="https://twitter.com/loveotavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveotavie" height="15" width="20" style="margin-right:100px;"/></a>
+   <a href="https://twitter.com/loveotavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveotavie" height="15" width="20" style="padding-right:100px;"/></a>
    <a href="https://linkedin.com/in/otavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavie" height="15" width="20" /></a>
 
 
