@@ -4,9 +4,7 @@
 
 ## Hi there 👋, I am Otavie 😀! 
 <br />
-<p align="right">
-   Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)
-</p>
+<p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
 
 <h1 align="center"></h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
