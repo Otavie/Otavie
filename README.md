@@ -5,10 +5,10 @@
 ### Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
 
 <h1 align="center"></h1>
-<h4 align="center">A Passionate Frontend Developer</h4>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 <!-- Brief Intro -->
-<p align="justify">
+<p align="center">
    A front-end web developer that can integrate the interactive and visual aspects of excellently and tastefully created UI/UX designs into working applications. Otavie can collaborate with teams of backend developers and UI/UX designers to guarantee that users have the utmost experience when using a website or web application.
 </p>
 
@@ -27,7 +27,7 @@
 
 ---
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <img align="center" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="S(CSS)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -37,6 +37,7 @@
     <img align="center" alt="ReactJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 <br />
+
 ---
 
 <h4 align="left">Connect with me:</h4>
