@@ -26,8 +26,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&line_height=29&bg_color=180,#af1e1e,#9ca3af,#4b5563,#1e40af)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&line_height=32&bg_color=180,#af1e1e,#9ca3af,#4b5563,#1e40af)
 
 <br />
 
