@@ -2,7 +2,7 @@
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
 </div>
 
-### Hi there 👋, I am Otavie! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
+### Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
 
 <h1 align="center"></h1>
 <h4 align="center">A passionate Frontend Developer</h4>
@@ -14,10 +14,9 @@
 
 <!-- Link to my Socials -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+   <a href="[https://github.com/Otavie](https://www.linkedin.com/in/otavie)?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Otavie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   
   <a href="https://github.com/Otavie?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Otavie?tab=followers">
