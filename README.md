@@ -5,7 +5,7 @@
 ### Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
 
 <h1 align="center"></h1>
-<h4 align="center">A passionate Frontend Developer</h4>
+<h4 align="center">A Passionate Frontend Developer</h4>
 
 <!-- Brief Intro -->
 <p align="justify">
