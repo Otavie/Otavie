@@ -27,6 +27,7 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
     <img align="center" alt="HTML" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="S(CSS)" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
