@@ -14,7 +14,7 @@
 
 <!-- Link to my Socials -->
 <p align="center">
-   <a href="[https://github.com/Otavie](https://www.linkedin.com/in/otavie)?tab=followers">
+   <a href="https://www.linkedin.com/in/otavie?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Otavie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    
   <a href="https://github.com/Otavie?tab=repositories&sort=stargazers">
