@@ -24,28 +24,12 @@
    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<p align="center">
-<!--    <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge&logo=twitter" alt="Otavie" /></a> -->
-<!--    <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge&logo=twitter" alt="Otavie" /></a>
-   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/twitter/follow/loveotavie?label=Follow&logo=twitter&logoColor=white&style=for-the-badge" alt="Follow @loveotavie on Twitter"/></a> -->
-<!--    <a href="https://www.linkedin.com/in/otavie/" target="blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin" alt="Otavie's LinkedIn"/></a> -->
+<p align="center">   
    
-   <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge&logo=twitter" alt="Otavie" /></a>
-  
-   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/twitter/follow/loveotavie?label=Follow&logo=twitter&logoColor=white&style=for-the-badge" alt="Follow @loveotavie on Twitter"/></a>
-   
-   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/twitter/follow/loveotavie?style=social&color=blue" alt="Follow @loveotavie on Twitter"/>
+   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie-/loveotavie?label=Follow&logo=twitter&labelColor=000000&logoColor=white&style=for-the-badge&color=1DA1F2" alt="Follow @loveotavie on Twitter"/>
 </a>
    
-   
-   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie-/loveotavie?label=Follow&logo=twitter&labelColor=eb348f&logoColor=white&style=for-the-badge&color=1DA1F2" alt="Follow @loveotavie on Twitter"/>
-</a>
-   
-   <a href="https://twitter.com/loveotavie" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/loveotavie?label=Follow%20LOVEOTAVIE&labelColor=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge&color=1DA1F2" alt="Follow @loveotavie on Twitter"/>
-</a>
-   
-   <a href="https://www.linkedin.com/in/otavie/" target="blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin" alt="Otavie's LinkedIn"/></a>
+   <a href="https://www.linkedin.com/in/otavie/" target="blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin&labelColor=000000" alt="Otavie's LinkedIn"/></a>
 </p>
 
 ---
