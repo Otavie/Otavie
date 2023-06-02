@@ -26,7 +26,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&&bg_color=45,rgb(156, 163, 175), rgb(75, 85, 99), rgb(30, 64, 175))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&&bg_color=45,#9ca3af, #4b5563, #1e40af)
 
 <br />
 
