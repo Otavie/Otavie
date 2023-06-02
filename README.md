@@ -38,7 +38,7 @@
 </a>
    
    
-   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie-/loveotavie?label=Follow&logo=twitter&logoColor=white&style=for-the-badge&color=1DA1F2"" alt="Follow @loveotavie on Twitter"/>
+   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie-/loveotavie?label=Follow&logo=twitter&logoColor=white&style=for-the-badge&color=1DA1F2" alt="Follow @loveotavie on Twitter"/>
 </a>
    
    <a href="https://twitter.com/loveotavie" target="_blank">
