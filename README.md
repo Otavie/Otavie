@@ -38,7 +38,7 @@
 </a>
    
    
-   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie-red/loveotavie?label=Follow&logo=twitter&logoColor=white&style=for-the-badge" alt="Follow @loveotavie on Twitter"/>
+   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie/loveotavie?label=Follow&logo=twitter&logoColor=white&style=for-the-badge" alt="Follow @loveotavie on Twitter"/>
 </a>
    
    <a href="https://www.linkedin.com/in/otavie/" target="blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin" alt="Otavie's LinkedIn"/></a>
