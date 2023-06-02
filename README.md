@@ -2,7 +2,7 @@
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
 </div>
 
-## Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
+## Hi there 👋, I am Otavie 😀! <br /><p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
 
 <h1 align="center"></h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
@@ -19,7 +19,7 @@
    <a href="https://github.com/Otavie?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/Otavie/Simple-View-Counter">
-   <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+   <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/otavie-profile-views"/></a>
 </p>
 
 <p align="center">   
@@ -31,7 +31,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&line_height=28&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&line_height=29&theme=chartreuse-dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&line_height=29&theme=chartreuse-dark) -->
 
 <br />
 
