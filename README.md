@@ -26,7 +26,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=false&&bg_color=180,#af1e1e,#9ca3af,#4b5563,#1e40af)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&&bg_color=180,#af1e1e,#9ca3af,#4b5563,#1e40af)
 
 <br />
 
