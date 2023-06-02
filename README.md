@@ -26,9 +26,7 @@
 
 <p align="center">
 <!--    <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge&logo=twitter" alt="Otavie" /></a> -->
-<!--    <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge&logo=twitter" alt="Otavie" /></a> -->
-   
-   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/twitter/follow/Connect-Otavie-blue?label=Follow&logo=twitter&logoColor=white&style=for-the-badge" alt="Follow @loveotavie on Twitter"/></a>
+   <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge&logo=twitter" alt="Otavie" /></a>
    <a href="https://www.linkedin.com/in/otavie/" target="blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin" alt="Otavie's LinkedIn"/></a>
 </p>
 
