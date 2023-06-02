@@ -26,7 +26,7 @@
 
 <p align="center">
    <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge" alt="Otavie" /></a>
-   <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/Otavie?logo=twitter&style=for-the-badge" alt="Otavie" /></a>
+   <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/linkedin/follow/Otavie?logo=twitter&style=for-the-badge" alt="Otavie" /></a>
 </p>
 
 ---
