@@ -24,7 +24,10 @@
    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+<p align="left">
+   <a href="https://twitter.com/loveotavie" target="blank"><img src="https://img.shields.io/twitter/follow/loveotavie?logo=twitter&style=for-the-badge" alt="Otavie" /></a>
+   <a href="https://linkedin.com/in/otavie" target="blank"><img src="https://img.shields.io/linkedin/follow/otavie?logo=linkedin&style=for-the-badge" alt="Otavie" /></a>
+</p>
 
 ---
 
