@@ -48,6 +48,10 @@
 
 ---
 
-<h4 align="left">Connect with me:</h4>
-<a href="https://twitter.com/loveotavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveotavie" height="25" width="30" style="margin-right:100px;"/></a>
+<p align="center">[Otavie](otavieokuoyo@gmail.com)</p>
+
+
+<!-- <h4 align="left">Connect with me:</h4> -->
+<!-- <a href="https://twitter.com/loveotavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveotavie" height="25" width="30" style="margin-right:100px;"/></a>
 <a href="https://linkedin.com/in/otavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavie" height="25" width="30" /></a>
+ -->
