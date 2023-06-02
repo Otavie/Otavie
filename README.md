@@ -46,11 +46,10 @@
 </p>
 <br />
 
----
+***
 
-<!-- [otavieokuoyo@gmail.com](mailto:otavieokuoyo@gmail.com) -->
-<p align="center">
-  <a href="mailto:otavieokuoyo@gmail.com">Email me</a>
+<p align="center" style="text-decoration:none; color:red;">
+  <a href="mailto:otavieokuoyo@gmail.com">otavieokuoyo@gmail.com</a>
 </p>
 
 
