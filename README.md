@@ -26,8 +26,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&line_height=28&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&line_height=29&theme=chartreuse-dark)
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavie&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)](https://github.com/Otavie) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&line_height=29&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)
+
+</div>
 
 <br />
 
