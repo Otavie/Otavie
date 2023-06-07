@@ -34,6 +34,25 @@
 
 <br />
 
+---
+<h3 align="center">Career Path</h3>
+<div align="center">
+
+   | Job Interests | Skill (Scale of 1 - 10) |
+| --- | --- |
+| Frontend Developer (intern, junior, entry or mid-level) | HTML and (S)CSS - 8.7 |
+| Very good with code documentation | VCS (Git and GitHub) - 8.0 |
+| Get me the design, I can make the beautiful, responsive and interactive interfaces | Python and C - 7.5 |
+| Excellent layout and typography skills | JavaScript - 7.0 |
+| Feel free to try me with a design and allow me get the job done! | React and Vue - 6.0 |
+     
+| _**While I am open to frontend engineering opportunities, I am actively engaged in open source projects.**_ |
+   | --- |
+   
+</div>
+
+---
+   
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -43,7 +62,7 @@
    <img align="center" alt="CSS" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="SASS" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    <img align="center" alt="NodeJS" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Pythin" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img align="center" alt="Python" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img align="center" alt="C Language" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="Git" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
