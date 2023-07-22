@@ -2,16 +2,6 @@
    <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
 </div>
 
-## Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
-
-<!-- <h1 align="center"></h1> -->
-<h3 align="center">A Passionate Frontend Developer</h3>
-
-<!-- Brief Intro -->
-<p align="center">
-   A front-end web developer that can integrate the interactive and visual aspects of excellently and tastefully created UI/UX designs into working applications. Otavie can collaborate with teams of backend developers and UI/UX designers to guarantee that users have the utmost experience when using a website or web application.
-</p>
-
 <!-- Link to my Socials -->
 <p align="center">
    <a href="https://github.com/Otavie?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Otavie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>   
@@ -23,6 +13,23 @@
     <a href="https://www.linkedin.com/in/otavie/" target="_blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin&labelColor=0072b1&color=7f44c7" alt="Otavie's LinkedIn"/></a>
 </p>
 
+## Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
+
+<!-- <h1 align="center"></h1> -->
+<h3 align="center">A Passionate Frontend Developer</h3>
+
+<!-- Brief Intro -->
+
+<p align="center">Hi there! I'm Otavie, a passionate fullstack developer with a strong focus on both frontend and backend development. I specialize in creating seamless user experiences by integrating interactive and visually appealing UI/UX designs into functional web applications. With expertise in frontend technologies such as HTML, CSS, JavaScript, React, and Vue, I ensure that the frontend of the applications I build is user-friendly and engaging.
+</p>
+
+<p align="center">
+On the backend side, I have a diverse skill set, and I'm proficient in programming languages like C, Python, and Node.js. This allows me to handle server-side logic and build robust and scalable backend systems that power the frontend. I'm well-versed in creating RESTful APIs and handling data storage and retrieval efficiently.
+</p>
+
+<p align="center">
+As a fullstack developer, I thrive in collaborative environments, working closely with backend developers, UI/UX designers, and other team members to deliver high-quality projects. I'm passionate about learning and staying up-to-date with the latest technologies and best practices, enabling me to deliver cutting-edge solutions.
+</p>
 
 ---
 
@@ -40,7 +47,8 @@
 
    | Job Interests | Skill (Scale of 1 - 10) |
 | --- | --- |
-| Frontend Developer (intern, junior, entry or mid-level) | HTML and (S)CSS - 8.7 |
+| Frontend/Backend Developer (intern/mid-level) | HTML and (S)CSS - 8.7 |
+| Fullstack (intern/mid-level) | NodeJS - 5.5 |
 | Very good with code documentation | VCS (Git and GitHub) - 8.0 |
 | Get me the design, I can make the beautiful, responsive and interactive interfaces | Python and C - 7.5 |
 | Excellent layout and typography skills | JavaScript - 7.0 |
@@ -75,10 +83,8 @@
    <a href="https://twitter.com/loveotavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveotavie" height="15" width="20" style="padding-right:100px;"/></a>
    <a href="https://linkedin.com/in/otavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavie" height="15" width="20" /></a>
 
-
 </p>
 
-<!-- <h4 align="left">Connect with me:</h4> -->
-<!-- <a href="https://twitter.com/loveotavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveotavie" height="25" width="30" style="margin-right:100px;"/></a>
-<a href="https://linkedin.com/in/otavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavie" height="25" width="30" /></a>
- -->
+<!-- <p align="center">
+   A front-end web developer that can integrate the interactive and visual aspects of excellently and tastefully created UI/UX designs into working applications. Otavie can collaborate with teams of backend developers and UI/UX designers to guarantee that users have the utmost experience when using a website or web application.
+</p> -->
