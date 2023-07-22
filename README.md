@@ -6,10 +6,7 @@
 <p align="center">
    <a href="https://github.com/Otavie?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Otavie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>   
    <a href="https://github.com/Otavie?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Otavie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
-<p align="center">   
-    <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie-/loveotavie?label=Follow&logo=twitter&labelColor=1DA1F2&logoColor=white&style=for-the-badge&color=7f44c7" alt="Follow @loveotavie on Twitter"/></a>
+   <a href="https://twitter.com/loveotavie" target="_blank"><img src="https://img.shields.io/badge/Follow-LoveOtavie-/loveotavie?label=Follow&logo=twitter&labelColor=1DA1F2&logoColor=white&style=for-the-badge&color=7f44c7" alt="Follow @loveotavie on Twitter"/></a>
     <a href="https://www.linkedin.com/in/otavie/" target="_blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin&labelColor=0072b1&color=7f44c7" alt="Otavie's LinkedIn"/></a>
 </p>
 
