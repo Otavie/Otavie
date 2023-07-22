@@ -1,5 +1,5 @@
-<div height="100" width=>  
-   <img src="https://github.com/Otavie/github_images/blob/main/github_profile2.jpg" height="20%" width="100%" />
+<div height="100">
+   <img src="https://github.com/Otavie/github_images/blob/main/bg_otavie.png" height="20%" width="100%" />
 </div>
 
 <!-- Link to my Socials -->
