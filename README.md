@@ -13,7 +13,7 @@
 ## Hi there 👋, I am Otavie 😀! <p align="right">Click [Otavie's Portfolio](https://otavie.github.io/portfolio_v3/)</p>
 
 <!-- <h1 align="center"></h1> -->
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Fullstack Engineer</h3>
 
 <!-- Brief Intro -->
 
