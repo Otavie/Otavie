@@ -33,6 +33,8 @@ As a fullstack developer, I thrive in collaborative environments, working closel
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavie&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)](https://github.com/Otavie) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavie&show_icons=true&line_height=29&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavie&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&langs_count=7)](https://github.com/Otavie)
+
 
 </div>
 
