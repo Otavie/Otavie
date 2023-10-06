@@ -10,8 +10,8 @@
     <a href="https://www.linkedin.com/in/otavie/" target="_blank"><img src="https://img.shields.io/badge/Connect-Otavie-blue?style=for-the-badge&logo=linkedin&labelColor=0072b1&color=7f44c7" alt="Otavie's LinkedIn"/></a>
 </p>
 
-## Hi there 👋, I am Otavie 😀! <p align="right"> [Otavie's Portfolio](https://otavie-react.netlify.app/)</p>
-<!-- [otavie.com](https://otavie.com/) -->
+## Hi there 👋, I am Otavie 😀! <p align="right">[otavie.com](https://otavie.com/)</p>
+<!-- [Otavie's Portfolio](https://otavie-react.netlify.app/) -->
 
 <!-- <h1 align="center"></h1> -->
 <h3 align="center">A Passionate Fullstack Engineer</h3>
