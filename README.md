@@ -1,5 +1,7 @@
 <div height="100">
-   <img src="https://github.com/Otavie/github_images/blob/main/bg_otavie.png" height="20%" width="100%" />
+<!--    <img src="https://github.com/Otavie/github_images/blob/main/bg_otavie.png" height="20%" width="100%" />
+   <img src="https://github.com/Otavie/github_images/blob/main/bg_otavie.png" height="20%" width="100%" /> -->
+   <img src="https://github.com/Otavie/github_images/blob/main/github-profile-mern.png" height="20%" width="100%" />
 </div>
 
 <!-- Link to my Socials -->
